@@ -1,0 +1,91 @@
+{
+    "actualités": [
+        {
+            "id": 1,
+            "pagetitle": "Lorem ipsum",
+            "title": "Le lorem ipsum est, en imprimerie, une suite de mots",
+            "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le fa",
+            "path_image": "assets/img/1.jpg",
+            "sections": [
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "pagetitle": "Lorem ipsum",
+            "title": "Le lorem ipsum est, en imprimerie, une suite de mots",
+            "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le fa",
+            "path_image": "assets/img/1.jpg",
+            "sections": [
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "pagetitle": "Lorem ipsum",
+            "title": "Le lorem ipsum est, en imprimerie, une suite de mots",
+            "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le fa",
+            "path_image": "assets/img/1.jpg",
+            "sections": [
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                },
+                {
+                    "title": "Le lorem ipsum est, en imprimerie",
+                    "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+                    "path_image": "assets/img/1.jpg"
+                }
+            ]
+        }
+    ]
+}

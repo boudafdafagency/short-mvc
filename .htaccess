@@ -1,0 +1,20 @@
+# Deny access to the core directory
+RewriteRule ^app/ - [F,L]
+RewriteRule ^config/ - [F,L]
+RewriteRule ^core/ - [F,L]
+RewriteRule ^vendor/ - [F,L] 
+RewriteRule ^views/ - [F,L]
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^lacasadecom.com [NC]
+RewriteRule ^(.*)$ https://www.lacasadecom.com/$1 [L,R=301,NC]
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Redirect any request that does not point to a file or directory
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+
